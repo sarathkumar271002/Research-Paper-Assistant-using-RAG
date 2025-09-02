@@ -75,3 +75,10 @@ This project is a Research Paper Assistant built with Retrieval-Augmented Genera
 * Default Groq model is `llama-3.1-8b-instant`, but this can be changed in the settings panel.
 * ChromaDB is configured to persist locally, so your indexed papers are saved between runs.
 
+## Author
+
+👨‍💻 **Sarathkumar Soundarrajan**
+📌 LinkedIn: (https://www.linkedin.com/in/sarathkumar271002/))
+📌 GitHub: (https://github.com/sarathkumar271002)
+
+
